@@ -1,3 +1,3 @@
 An exciting new project!
 
-By: Austin Kaogit 
+By: Austin Kao
